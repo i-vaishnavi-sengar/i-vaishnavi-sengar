@@ -39,7 +39,6 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" title="Figma"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" height="45" title="Adobe Illustrator"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" width="45" height="45" title="Adobe XD"/>
 </p>
 
 **Developer Tools**
@@ -51,6 +50,9 @@
 </p>
 
 ---
+## Featured Projects
+### eConsultAI
+link: https://sentiment-analysis--sih.vercel.app/
 
 ### 📫 Get In Touch
 
