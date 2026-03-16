@@ -55,8 +55,8 @@
 ### 📫 Get In Touch
 
  **Email** ': hey.vaishnaviiii@gmail.com
- (mailto:hey.vaishnaviiii@gmail.com) 
-|**Discord** :  _vaishnaviii 
+ 
+**Discord** :  _vaishnaviii 
 
 ---
 
@@ -96,7 +96,7 @@
 
 
 ### ⚡ Fun Facts About Me
-- 📑 I like **listening to music** and **reading books**in my free time .
+- 📑 I like **listening to music** and **reading books** in my free time .
 - 🫧 Fun fact: **Reading books often gives me new ideas and perspectives**
 - 🎵 Currently vibing to: **POP & R&B Playlists**
 - 🧋Chocolate milk is my go to drink .
