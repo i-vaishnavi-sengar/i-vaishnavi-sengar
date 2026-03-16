@@ -49,8 +49,6 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" title="GitHub"/>
   <!-- ADD MORE: kubernetes, aws, gcp, jenkins, etc. -->
 </p>
@@ -58,8 +56,7 @@
 ---
 
 ### 📫 Get In Touch
-| Platform | Link |
-|----------|------|
+
 | **Email** | hey.vaishnaviiii@gmail.com
 (mailto:hey.vaishnaviiii@gmail.com) |
 | **Discord** |  _vaishnaviii |
