@@ -70,9 +70,6 @@ link: https://sentiment-analysis--sih.vercel.app/
   <a href="https://x.com/i_vaishnaviii_" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
   </a>
-  <a href="https://instagram.com/_.vaishnavii.i_ " target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
-  </a>
   <a href="https://github.com/i-vaishnavi-sengar" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="35" />
   </a>
