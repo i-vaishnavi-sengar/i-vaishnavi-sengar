@@ -3,7 +3,6 @@
 # 👋 Hello ! I'm Vaishnavi Sengar.
 <p align="center">
   <img <img width="1024" height="1024" alt="file_000000002e7c7208aa9b2de50b0ca22c" src="https://github.com/user-attachments/assets/14ee1ef8-2181-4b40-bc1a-b1058a7c40a5" />
-">>
 </p>
 
 
